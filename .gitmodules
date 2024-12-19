@@ -1,0 +1,6 @@
+[submodule "CppLinuxSerial"]
+	path = CppLinuxSerial
+	url = https://github.com/gbmhunter/CppLinuxSerial
+[submodule "matplotplusplus"]
+	path = matplotplusplus
+	url = https://github.com/lava/matplotlib-cpp
